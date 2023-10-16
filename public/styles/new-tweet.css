@@ -42,3 +42,8 @@ textarea {
 .new-tweet button:hover {  
   background-color: lightsteelblue;
 }
+
+.invalid {
+  color: red
+}
+
