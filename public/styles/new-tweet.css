@@ -47,3 +47,17 @@ textarea {
   color: red
 }
 
+.error-message {
+  display: flex;
+  border: 3px solid red;
+  justify-content: space-around;
+  color: red;
+  padding: 20px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.fa-exclamation-triangle {
+margin-left: 5px;
+margin-right: 5px;
+} 
