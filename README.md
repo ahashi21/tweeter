@@ -32,3 +32,6 @@ This app provides the user with the ability to post tweets to a Tweet feed. This
 - Express
 - Node 5.10.x or above
 - nodemon
+- chance
+- body-parser
+- md5
