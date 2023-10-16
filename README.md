@@ -16,11 +16,12 @@ This app provides the user with the ability to post tweets to a Tweet feed. This
 
 **Main Tweeter Page**
 
-!["Screenshot of main Tweeter page"](![image](https://github.com/ahashi21/tweeter/assets/144146924/1ed465e0-52e9-49cb-a9f9-26798aafd38b))
+![image](https://github.com/ahashi21/tweeter/assets/144146924/1ed465e0-52e9-49cb-a9f9-26798aafd38b)
 
 **Main Tweeter Page with an Error Message when Submitting an Empty Tweet**
 
-!["Screenshot of main Tweeter page with error message"](![image](https://github.com/ahashi21/tweeter/assets/144146924/cbaf1580-58f0-4db3-b1b7-2a94d30db204))
+![image](https://github.com/ahashi21/tweeter/assets/144146924/2bad0bc3-484e-4d06-b68c-c06a094a9a05)
+
 
 ## Getting Started
 1. Install dependencies using the `npm install` command.
